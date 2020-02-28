@@ -1,4 +1,4 @@
-image: marcopeg/gitpod-workspace-postgres:2.1.0
+image: marcopeg/gitpod-workspace-postgres:1.0.0
 
 ports:
   - port: 8008
