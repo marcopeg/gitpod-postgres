@@ -1,0 +1,7 @@
+image: marcopeg/gitpod-workspace-postgres:2.1.0
+
+ports:
+  - port: 8001
+    onOpen: ignore
+  - port: 5432
+    onOpen: ignore
