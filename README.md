@@ -3,6 +3,9 @@ One click to run Postgres (with Adminer) into GitPod
 
 [![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/marcopeg/gitpod-postgres)
 
+Or go check the DockerHUB page:  
+https://hub.docker.com/r/marcopeg/gitpod-workspace-postgres
+
 ## How does it work?
 
 This custom workspace runs both Postgres and Apache with [Adminer](https://www.adminer.org/) already
