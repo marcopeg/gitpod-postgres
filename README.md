@@ -1,5 +1,5 @@
 # gitpod-postgres
-One click to run Postgres (with Adminer) into GitPod
+One click to run Postgres (with Adminer) into GitPod.
 
 [![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/marcopeg/gitpod-postgres)
 
